@@ -66,4 +66,4 @@ In fact, you can use the application immediately after the Home.
 
 Any of the search ends at XY moving at the desired point (or edge, or corner, or center), Z remains in the original position.
 
-More details https://vers.by/en/blog/useful-articles/probe-screen
+More details https://vers.by/en/blog/useful-articles/probe-screen-v1
