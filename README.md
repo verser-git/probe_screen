@@ -1,5 +1,7 @@
-# Probe Screen for LinuxCNC
+# Probe Screen V1 for LinuxCNC
 
+The new version of the V2 app is here https://github.com/verser-git/probe_screen_v2
+ 
  Install.
 -----------------------------------------------------------------------------
 1. Add to your .ini these settings
